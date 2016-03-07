@@ -1,0 +1,1 @@
+A thin Spring Integration layer for Morphia (and Mongo)
